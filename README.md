@@ -2,6 +2,8 @@
 
 A modern, responsive weather dashboard built with React and Vite that displays current weather conditions and 3-day forecasts for any city worldwide.
 
+### Live Site: [Link](https://kanurisathvika.github.io/Weather_Dashboard_using_ReactJs/)
+
 ## Features
 
 - 🌤️ Real-time weather data using WeatherAPI.com
